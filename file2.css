@@ -1,0 +1,45 @@
+#main{
+  color:#37474F;
+  
+}
+#demo{
+  text-align:center;
+  font-size:30px;
+  position:absolute;
+  top:200px;
+  left:0;
+  right:0;
+  bottom:0;
+  margin:auto;
+}
+#dates{
+  position:absolute;
+  text-align:center;
+  font-size:30px;
+  top:250px;
+  left:0px;
+  bottom:0;
+  right:0;
+  margin:auto;
+}
+#demo4{
+   position:absolute;
+  text-align:center;
+  font-size:30px;
+  top:300px;
+  left:0px;
+  bottom:0;
+  right:0;
+  margin:auto;
+}
+#txt{
+   position:absolute;
+  text-align:center;
+  vertical-align:middle;
+  font-size:30px;
+  top:350px;
+  left:0px;
+  bottom:0;
+  right:0;
+  margin:auto;
+}
